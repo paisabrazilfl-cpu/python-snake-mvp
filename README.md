@@ -1,1 +1,1 @@
-Detailed description of the MVP, installation (pip install -r requirements.txt), and run instructions (python main.py). Mention that the graphics are inspired by Street Fighter and Mario.
+Create a complete README.md for the 'python-snake-mvp' repository that includes clear, step-by-step instructions to set up the environment (pip install -r requirements.txt), run the game (python main.py), and describes the visual theme (Street Fighter/Mario) and controls.
