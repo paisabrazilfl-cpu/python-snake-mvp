@@ -1,0 +1,2 @@
+# python-snake-mvp
+A complete Python Snake game MVP with 2D graphics inspired by Street Fighter and Mario — built with pygame.
