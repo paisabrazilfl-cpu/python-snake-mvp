@@ -1,1 +1,1 @@
-A complete Python Snake game MVP with 2D graphics inspired by Street Fighter and Mario — built with pygame.
+Detailed description of the MVP, installation (pip install -r requirements.txt), and run instructions (python main.py). Mention that the graphics are inspired by Street Fighter and Mario.
